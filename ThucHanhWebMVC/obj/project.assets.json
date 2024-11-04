@@ -7970,11 +7970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VanDai\\OneDrive - Trường ĐH CNTT - University of Information Technology\\Tài liệu\\GitHub\\WebBanHang\\ThucHanhWebMVC\\ThucHanhWebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\VanDai\\OneDrive - Trường ĐH CNTT - University of Information Technology\\Tài liệu\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\ThucHanhWebMVC.csproj",
       "projectName": "ThucHanhWebMVC",
-      "projectPath": "C:\\Users\\VanDai\\OneDrive - Trường ĐH CNTT - University of Information Technology\\Tài liệu\\GitHub\\WebBanHang\\ThucHanhWebMVC\\ThucHanhWebMVC.csproj",
+      "projectPath": "C:\\Users\\VanDai\\OneDrive - Trường ĐH CNTT - University of Information Technology\\Tài liệu\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\ThucHanhWebMVC.csproj",
       "packagesPath": "C:\\Users\\VanDai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VanDai\\OneDrive - Trường ĐH CNTT - University of Information Technology\\Tài liệu\\GitHub\\WebBanHang\\ThucHanhWebMVC\\obj\\",
+      "outputPath": "C:\\Users\\VanDai\\OneDrive - Trường ĐH CNTT - University of Information Technology\\Tài liệu\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VanDai\\AppData\\Roaming\\NuGet\\NuGet.Config",

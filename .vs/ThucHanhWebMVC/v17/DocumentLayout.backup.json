@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\",
+  "WorkspaceRootPath": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\TH_WebBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\vandai\\onedrive - tr\u01B0\u1EDDng \u0111h cntt - university of information technology\\t\u00E0i li\u1EC7u\\github\\webbanhang\\thuchanhwebmvc\\areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\vandai\\onedrive - tr\u01B0\u1EDDng \u0111h cntt - university of information technology\\t\u00E0i li\u1EC7u\\github\\th_webbanhang\\thuchanhwebmvc\\areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\vandai\\onedrive - tr\u01B0\u1EDDng \u0111h cntt - university of information technology\\t\u00E0i li\u1EC7u\\github\\webbanhang\\thuchanhwebmvc\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\vandai\\onedrive - tr\u01B0\u1EDDng \u0111h cntt - university of information technology\\t\u00E0i li\u1EC7u\\github\\webbanhang\\thuchanhwebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\vandai\\onedrive - tr\u01B0\u1EDDng \u0111h cntt - university of information technology\\t\u00E0i li\u1EC7u\\github\\webbanhang\\thuchanhwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\vandai\\onedrive - tr\u01B0\u1EDDng \u0111h cntt - university of information technology\\t\u00E0i li\u1EC7u\\github\\th_webbanhang\\thuchanhwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\vandai\\onedrive - tr\u01B0\u1EDDng \u0111h cntt - university of information technology\\t\u00E0i li\u1EC7u\\github\\th_webbanhang\\thuchanhwebmvc\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD932AED-0D46-4F9D-B5A7-35C33DC1159B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "TDanhMucSp.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\Models\\TDanhMucSp.cs",
+              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Models\\TDanhMucSp.cs",
+              "ToolTip": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\Models\\TDanhMucSp.cs",
+              "RelativeToolTip": "ThucHanhWebMVC\\Models\\TDanhMucSp.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAzwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:40:08.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\ThucHanhWebMVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\Program.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\ThucHanhWebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\Program.cs",
               "RelativeToolTip": "ThucHanhWebMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T07:37:04.144Z",
               "EditorCaption": ""
@@ -45,39 +54,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AdminHomeController.cs",
-              "DocumentMoniker": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
-              "ToolTip": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "ToolTip": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\TH_WebBanHang\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
               "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T07:31:35.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\ThucHanhWebMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "ThucHanhWebMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\ThucHanhWebMVC\\appsettings.json",
-              "RelativeToolTip": "ThucHanhWebMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-04T07:31:24.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\VanDai\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\T\u00E0i li\u1EC7u\\GitHub\\WebBanHang\\ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T08:53:30.453Z",
               "EditorCaption": ""
             }
           ]
